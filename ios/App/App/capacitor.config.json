@@ -1,0 +1,17 @@
+{
+  "appId": "com.academind.vuememories",
+  "appName": "Vue Memories",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "server": {
+    "url": "https://t.pos.imenu.tech/tab/#/login",
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
